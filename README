@@ -1,0 +1,4 @@
+This is a project which recommends books to the user to read based on the rating of the books.
+ We have made this project the the BUILD MANIA CHALLENGE of nasscom and KPRIET.
+ We have made project using Pandas library and using the concept of collaborative filtering.
+ It is usefull for those who wants to read interesting books.
